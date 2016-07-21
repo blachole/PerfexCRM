@@ -68,7 +68,7 @@ $lang['client']                                = 'Customer';
 $lang['new_client']                            = 'New Customer';
 $lang['client_lowercase']                      = 'customer';
 $lang['client_delete_tooltip']                 = 'All customer data will be deleted. Contracts,tickets,notes. NOTE: If invoices found customer wont be deleted. You need to assign this invoices to another customer to keep the invoice number';
-$lang['customer_delete_invoices_warning']      = 'This customer have invoices on the account. You cant delete this customer. Change all invoices to another customer in a future then delete.';
+$lang['customer_delete_invoices_warning']      = 'This customer has invoices on the account. You cant delete this customer. Change all invoices to another customer in a future then delete.';
 $lang['client_firstname']                      = 'First Name';
 $lang['client_lastname']                       = 'Last Name';
 $lang['client_email']                          = 'Email';
@@ -1107,7 +1107,7 @@ $lang['lead_convert_to_client_lastname']          = 'Last Name';
 $lang['lead_email_already_exists']                = 'Lead email already exists in customers data';
 $lang['lead_to_client_base_converted_success']    = 'Lead converted to customer successfuly';
 $lang['lead_already_converted']                   = 'Converted to customer';
-$lang['lead_have_client_profile']                 = 'This lead have customer profile.';
+$lang['lead_have_client_profile']                 = 'This lead has a customer profile.';
 $lang['lead_converted_edit_client_profile']       = 'Edit Profile';
 $lang['lead_is_client_cant_change_status_canban'] = 'This lead is converted to customer. You cant change his status.';
 
